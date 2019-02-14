@@ -1,0 +1,24 @@
+.img {
+  float: right;
+  width: 20%;
+}
+
+.lightbackground {
+  background-color: lightblue;
+  color: red;
+}
+
+.darkbackground {
+  background-color: black;
+  color: lightblue;
+}
+
+
+.use {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.clickable:hover {
+  text-decotration: underline;
+}
